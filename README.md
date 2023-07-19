@@ -1,2 +1,2 @@
 # blogs
-this is a project to learning microservices using nodejs and reactjs
+this is a project for learning microservices using nodejs and reactjs
