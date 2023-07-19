@@ -1,6 +1,6 @@
-# Description
+# About the project
 This is a project for learning microservices.
-# Built With
+# Built with
   - Nodejs
   - Reactjs
   - Docker
